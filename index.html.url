@@ -1,2 +1,77 @@
-[InternetShortcut]
-URL=file:///c%3A/Users/Pratyush/OneDrive/Desktop/test/index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="short cut icon "  href="http://purepng.com/public/uploads/large/purepng.com-weather-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596142qx4ep.png">
+<link rel="stylesheet" href="index.css">
+    <title>WEATHER App</title>
+</head>
+<body>
+    <div class="main">
+        <div class="container">
+            <h1 class="text">
+                HOME
+            </h1>
+        </div>
+        <div class="container">
+            <h1 class="text">
+                BLOG
+            </h1>
+        </div>
+        <div class="container">
+            <h1 class="text">
+                ABOUT
+            </h1>
+        </div>
+        <div class="container">
+            <h1 class="text2">
+                CONTACT
+            </h1>
+        </div>
+    </div>
+    <div class="main2">
+        <div class="left">
+            <h1 class="headline">Just Say Hello!</h1>
+        </div>
+        <div>
+            <h1 class="text3">JUST LET US KNOW MORE ABOUT YOU</h1>
+        </div>
+        <div class="placeholder">
+            <div class="first_name">
+                <h1 class="text4">                FIRST NAME
+                </h1>
+            </div>
+            <div class="last_name">
+                <h1 class="text4">                LAST NAME
+                </h1>
+            </div>
+        </div>
+<br/>
+        <div class="placeholder">
+            <div class="mail">
+                <h1 class="text4">                MAIL
+                </h1>
+            </div>
+            <div class="contact">
+                <h1 class="text4">                CONTACT
+                </h1>
+            </div>
+        </div>
+        <div class="comment">
+            <h1 class="text_c">
+                MESSAGE
+            </h1>
+            
+        </div>
+        <div class="buttonS">
+            <button>SUBMIT</button>
+        </div>
+        <div class="right">
+
+        </div>
+
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
